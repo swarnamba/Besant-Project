@@ -1,5 +1,7 @@
 
-NAme:
+Name:
 DOB:
-Salary
+Salary:
 Address:
+Expected salary:
+CAB:
